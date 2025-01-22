@@ -86,8 +86,8 @@ AI가 상담 서비스를 지원하고 있으나 고객들의 만족도는 높�
 </details>
 
 ## 3. 아키텍처
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=Langchain&logoColor=white"><br>
+<img src="https://github.com/whynotsw-camp/wh02-3rd-2team-YNW/blob/main/image/%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%20%EC%B5%9C%EC%A2%85.png"><br>
 
 
 ## 4. WorkFlow
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=Langchain&logoColor=white"><br>
+<img src="https://github.com/whynotsw-camp/wh02-3rd-2team-YNW/blob/main/image/Usecase_%EC%B5%9C%EC%A2%85.png"><br>
