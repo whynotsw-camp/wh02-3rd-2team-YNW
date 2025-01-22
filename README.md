@@ -77,14 +77,13 @@ AI가 상담 서비스를 지원하고 있으나 고객들의 만족도는 높�
 <details>
 <summary><b>프로젝트 관련 문서</b></summary>
 
-[1. 프로젝트 기획서](https://drive.google.com/file/d/1bmEhTbx4keIo8zoLic5RTFbXd40UeEsv/view?usp=drive_link) <br><br>
-[2. 요구사항 정의서](https://drive.google.com/file/d/1FpFoQszCqOuG5_CIJTV8c2jEPH_hLusv/view?usp=drive_link) <br><br>
-[3. WBS](https://docs.google.com/spreadsheets/d/1O-XvD4izvfhO8Y9bbfwy8bzuGhWHR9dM/edit?usp=drive_web&ouid=103010903150867537248&rtpof=true) <br><br>
-[4. 모델 정의서](https://drive.google.com/file/d/1fGNQ1etcmde5AOjO8L3d82j9Loy42c3U/view?usp=drive_link) <br><br>
-[5. 성능 평가 결과서](https://drive.google.com/file/d/1PkYChEu5N61YbGCOyGbdCrDQ_B9RTxUf/view?usp=drive_link) <br><br>
-[6. 최종 보고서](https://drive.google.com/file/d/1auPM7ZuxgB5h2mQGAPm60xyp5pQGiQbj/view?usp=drive_link) <br><br>  
+[1. 프로젝트 기획서](https://github.com/whynotsw-camp/wh02-3rd-2team-YNW/blob/main/Docs/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EA%B8%B0%ED%9A%8D%EC%95%88.pdf) <br><br>
+[2. 요구사항 정의서](https://github.com/whynotsw-camp/wh02-3rd-2team-YNW/blob/main/Docs/%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD_%EC%A0%95%EC%9D%98%EC%84%9C.pdf) <br><br>
+[3. WBS](http://docs.google.com/spreadsheets/d/1O-XvD4izvfhO8Y9bbfwy8bzuGhWHR9dM/edit?rtpof=true&gid=124609301#gid=124609301) <br><br>
+[4. 모델 정의서](https://github.com/whynotsw-camp/wh02-3rd-2team-YNW/blob/main/Docs/%EB%AA%A8%EB%8D%B8%20%EC%A0%95%EC%9D%98%EC%84%9C.pdf) <br><br>
+[5. 성능 평가 결과서](https://github.com/whynotsw-camp/wh02-3rd-2team-YNW/blob/main/Docs/%EC%84%B1%EB%8A%A5%20%ED%8F%89%EA%B0%80%20%EA%B2%B0%EA%B3%BC%EC%84%9C.pdf) <br><br>
+[6. 최종 보고서](https://github.com/whynotsw-camp/wh02-3rd-2team-YNW/blob/main/Docs/%EC%B5%9C%EC%A2%85%EB%B0%9C%ED%91%9C.pdf) <br><br>  
 </details>
-
 ## 3. 아키텍처
 <img src="https://github.com/whynotsw-camp/wh02-3rd-2team-YNW/blob/main/image/%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%20%EC%B5%9C%EC%A2%85.png"><br>
 
