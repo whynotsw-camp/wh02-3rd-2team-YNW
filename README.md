@@ -8,9 +8,9 @@
 [<img src="https://img.shields.io/badge/Github-Link-FFE482?logo=Github">](https://github.com/yw824) <strong>&nbsp;&nbsp;이용우</strong> <br>
 [<img src="https://img.shields.io/badge/Github-Link-FF0000?logo=Github">](https://github.com/kcy97) <strong>&nbsp;&nbsp;김찬유</strong> <br>
 [<img src="https://img.shields.io/badge/Github-Link-EB99FF?logo=Github">](https://github.com/nomemb) <strong>&nbsp;&nbsp;남궁진</strong> <br>
-[<img src="https://img.shields.io/badge/Github-Link-2C633B?logo=Github">](https://github.com/DYShin1) <strong>&nbsp;&nbsp;박소엽</strong> <br>
-[<img src="https://img.shields.io/badge/Github-Link-3D3A61?logo=Github">](https://github.com/jhlee6515) <strong>&nbsp;&nbsp;박지민</strong> <br>
-[<img src="https://img.shields.io/badge/Github-Link-3D3A61?logo=Github">](https://github.com/jhlee6515) <strong>&nbsp;&nbsp;성채린</strong> <br>
+[<img src="https://img.shields.io/badge/Github-Link-2C633B?logo=Github">](https://github.com/yeopyeop123) <strong>&nbsp;&nbsp;박소엽</strong> <br>
+[<img src="https://img.shields.io/badge/Github-Link-3D3A61?logo=Github">](https://github.com/zzi2v) <strong>&nbsp;&nbsp;박지민</strong> <br>
+[<img src="https://img.shields.io/badge/Github-Link-3D3A61?logo=Github">](https://github.com/cea-rin) <strong>&nbsp;&nbsp;성채린</strong> <br>
 
 ## 1. 프로젝트 소개
 
