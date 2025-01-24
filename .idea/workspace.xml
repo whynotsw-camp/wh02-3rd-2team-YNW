@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec1a96e9-5bd1-427c-b27c-e399d1df4a67" name="Changes" comment="" />
+    <list default="true" id="ec1a96e9-5bd1-427c-b27c-e399d1df4a67" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/U+공유폴더용.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/U+공유폴더용.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +25,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/Nomemb/Final_Project.git",
+    "url": "https://github.com/whynotsw-camp/wh02-3rd-2team-YNW.git",
     "accountId": "b7b71826-0db4-4202-8352-e09845a878f1"
   }
 }]]></component>
@@ -36,6 +40,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/Admin/Desktop/U+공유폴더용",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -68,6 +73,7 @@
       <updated>1737596913251</updated>
       <workItem from="1737596914292" duration="627000" />
       <workItem from="1737685055034" duration="8029000" />
+      <workItem from="1737698033990" duration="619000" />
     </task>
     <servers />
   </component>
