@@ -129,4 +129,4 @@ RAG를 통해 관련 문서를 가져오고, 이를 LLM 모델로 넘겨서 답�
 
 
 ## 6. 프로젝트 시연 동영상
-https://github.com/whynotsw-camp/wh02-3rd-2team-YNW/blob/main/image/%EC%8B%9C%EC%97%B0%EB%8F%99%EC%98%81%EC%83%81_%EC%B5%9C%EC%A2%85.mov
+https://github.com/whynotsw-camp/wh02-3rd-2team-YNW/blob/main/image/%EC%8B%9C%EC%97%B0%EB%8F%99%EC%98%81%EC%83%81_%EC%B5%9C%EC%A2%85.mp4
